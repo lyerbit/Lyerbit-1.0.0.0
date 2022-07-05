@@ -13,19 +13,15 @@ Tested on
         <th> Version </th>
     </tr>
     <tr>
-        <td>Windows 7</td>
-        <td> 1.0.0.0 </td>
+        <td>Android 11 / Android 10 / Android 9</td>
+        <td>Processing...</td>
     </tr>
     <tr>
-        <td>Windows 8</td>
+        <td>Iphone</td>
         <td>Processing....</td>
     </tr>
     <tr>
-        <td>Windows 10</td>
+        <td>Windows PC</td>
         <td>Processing....</td>
-    </tr>
-    <tr>
-        <td>Kali linux / Parrot OS / Ubuntu</td>
-        <td>Comming soon...</td>
     </tr>
 </table>
