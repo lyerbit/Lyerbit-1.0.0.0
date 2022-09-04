@@ -20,7 +20,7 @@ Tested on
 	()########|  ===================================================> 
 	          | /       \  /\  /| | | | | (_| | (_) \ V  V /\__ \ 
 	          |/         \/  \/ |_|_| |_|\__,_|\___/ \_/\_/ |___/
-<img align="right" alt="Coding" width="500" src="https://user-images.githubusercontent.com/100108676/188294521-82ceb9b4-ba5c-47ea-9ae5-e7ebd8d48bd6.gif">
+<img align="right" alt="Coding" width="450" src="https://user-images.githubusercontent.com/100108676/188294521-82ceb9b4-ba5c-47ea-9ae5-e7ebd8d48bd6.gif">
 
 - 👨‍💻 You can also check out my portfolio at [https://khushboogoel01.github.io/](https://khushboogoel01.github.io/)
 
