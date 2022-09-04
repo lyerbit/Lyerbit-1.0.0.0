@@ -25,7 +25,7 @@ Tested on
 ABOUT
 =
 
-- 👨‍💻 **FOR CONTECT** [TELEGRAM](https://khushboogoel01.github.io/)
+- 👨‍💻 **FOR CONTECT** [TELEGRAM](https://t.me/lyerbit)
 
 -
 
