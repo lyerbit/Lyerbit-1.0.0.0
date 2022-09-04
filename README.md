@@ -5,7 +5,7 @@
 
 **TELEGRAM MEMBERS**
 =
-Increase Telegram Members :-If you want to develop your Business, We have Best and cheapest offer for you! You can easily buy real Telegram members for your channel and group. you can instantly boost your channel. Buying Telegram members For Your group became one of the most popular and effective ways to promote Telegram business.
+**Increase Telegram Members**:-If you want to develop your Business, We have Best and cheapest offer for you! You can easily buy real Telegram members for your channel and group. you can instantly boost your channel. Buying Telegram members For Your group became one of the most popular and effective ways to promote Telegram business.
 <p align="left">
 
 
@@ -20,21 +20,8 @@ DESCRIPTION
 
 ABOUT
 =
-
 - 👨‍💻 **FOR CONTECT** [TELEGRAM](https://t.me/lyerbit)
 
 -
 
 -
-
-<table>
-    <tr>
-        <th>Operative system</th>
-        <th> Version </th>
-    </tr>
-    <tr>
-        <td>Windows PC</td>
-        <td>1.0.0.0</td>
-    </tr>
-</table>
-<p align="left">
