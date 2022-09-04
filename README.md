@@ -29,7 +29,6 @@ Tested on
 - ⚡ Fun fact **I think I am funny XD**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
 <table>
     <tr>
         <th>Operative system</th>
@@ -48,3 +47,4 @@ Tested on
         <td>Processing....</td>
     </tr>
 </table>
+<p align="left">
