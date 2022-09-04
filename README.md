@@ -35,16 +35,8 @@ Tested on
         <th> Version </th>
     </tr>
     <tr>
-        <td>Android 11 / Android 10 / Android 9</td>
-        <td>Processing...</td>
-    </tr>
-    <tr>
-        <td>Iphone</td>
-        <td>Processing....</td>
-    </tr>
-    <tr>
         <td>Windows PC</td>
-        <td>Processing....</td>
+        <td>1.0.0.0</td>
     </tr>
 </table>
 <p align="left">
