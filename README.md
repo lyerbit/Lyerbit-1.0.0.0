@@ -3,10 +3,9 @@
   </html>
 <img align="left" width="160" src="https://user-images.githubusercontent.com/100108676/164608780-e56abb0f-dbdd-41ef-838c-2bc9684c74f1.gif">
 
-Information
+**TELEGRAM MEMBERS**
 =
-This tool is for educational purpose only, usage of Lyerbit for attacking targets without prior mutual consent is illegal. Developers assume no liability and are not responsiblefor any misuse or damage cause by this program.
-
+Increase Telegram Members :-If you want to develop your Business, We have Best and cheapest offer for you! You can easily buy real Telegram members for your channel and group. you can instantly boost your channel. Buying Telegram members For Your group became one of the most popular and effective ways to promote Telegram business.
 <p align="left">
 
 
