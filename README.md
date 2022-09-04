@@ -8,12 +8,9 @@ Information
 This tool is for educational purpose only, usage of Lyerbit for attacking targets without prior mutual consent is illegal. Developers assume no liability and are not responsiblefor any misuse or damage cause by this program.
 
 <p align="left">
- 
- 
- 
- 
- 
-Tested on
+
+
+DESCRIPTION
 =
 	          |\         __  __   _          _                   
 	          | \       / / /\ \ (_)_ __  __| | _____      _____ 
